@@ -1,0 +1,61 @@
+/* ###    Sometype Mono   ###*/
+
+@import url('https://fonts.googleapis.com/css2?family=Sometype+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+/* ###    Space Mono   ### */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+/* ###    Poppins   ### */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Sometype+Mono:ital,wght@0,400..700;1,400..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+/* ###    Vobca     ### */
+
+@font-face {
+    font-family: 'Vobca';
+    src: url('./Fonts/Vobca/Vobca-Regular.otf') format('opentype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Vobca';
+    src: url('./Fonts/Vobca/Vobca-Light.otf') format('opentype');
+    font-style: 300;
+}
+
+@font-face {
+    font-family: 'Vobca';
+    src: url('./Fonts/Vobca/Vobca-Bold.otf') format('opentype');
+    font-weight: 700; 
+}
+
+
+/* ###    Caleb Mono     ### */
+
+
+@font-face {
+    font-family: 'Caleb Mono';
+    src: url('./Fonts/CalebMono/Calebmono-regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Caleb Mono';
+    src: url('./Fonts/CalebMono/Calebmono-medium.ttf') format('truetype');
+    font-weight: 500;
+}   
+@font-face{
+    font-family: 'Caleb Mono';
+    src: url('./Fonts/CalebMono/Calebmono-semibold.ttf') format('truetype');
+    font-weight: 600 ;
+}
+
+@font-face {
+    font-family: 'Caleb Mono';	
+    src: url('./Fonts/CalebMono/Calebmono-bold.ttf') format('truetype');
+    font-weight: 700;
+}
