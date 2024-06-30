@@ -4,7 +4,8 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
-import { CgGitFork } from "react-icons/cg";
+import { RiGitRepositoryLine } from "react-icons/ri";
+
 import {
   AiFillStar,
   AiOutlineHome,
@@ -81,7 +82,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button href="https://github.com/JagrutNakum/Prodigy-Internship-PRODIGY_WD_04/" target="_blank" className="fork-btn-inner">
-                <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
+                <RiGitRepositoryLine style={{ fontSize: "1.2em" }} />{" "}
                 <AiFillStar style={{ fontSize: "1.1em" }} />
               </Button>
             </Nav.Item>

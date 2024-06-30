@@ -4,7 +4,7 @@ This repository contains several web applications that showcase my skills in web
 
 ## Portfolio Site
 
-Built my first ever Porfolio site using HTML, CSS and JS as my 4th task at #ProdigyInfotech Summer Internship. Do check it out.
+Built my first ever Porfolio site using HTML, CSS, NodeJS and ReactJS as my 4th task at #ProdigyInfotech Summer Internship. Do check it out.
 
 ## Projects Overview
 
